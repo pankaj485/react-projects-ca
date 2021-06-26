@@ -1,4 +1,4 @@
-visit websites here :
+## visit websites here 
 
 [color platte generator ](https://color-platte-generator.netlify.app/)
 
