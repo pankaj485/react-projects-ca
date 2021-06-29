@@ -4,4 +4,4 @@
 
 [lorem-ipsum generator ](https://pank-lr-generate.netlify.app/)
 
-[Grocery Bud ](https://grocery-bud-pank.netlify.app/https://pank-lr-generate.netlify.app/)
+[Grocery Bud ](https://grocery-bud-pank.netlify.app/)
