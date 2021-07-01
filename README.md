@@ -5,3 +5,6 @@
 [lorem-ipsum generator ](https://pank-lr-generate.netlify.app/)
 
 [Grocery Bud ](https://grocery-bud-pank.netlify.app/)
+
+[Sidebar ](https://navbar-ca.netlify.app/)
+
